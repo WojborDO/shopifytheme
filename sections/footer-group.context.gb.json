@@ -1,1 +1,84 @@
-{"parent":"footer-group.json","context":{"market":"gb"},"sections":{"1723937585f0e6156e":{"type":"apps","disabled":false,"settings":{"include_margins":true},"blocks":{},"block_order":[]},"footer":{"settings":{"color_scheme":"scheme-3","margin_top":20},"blocks":{}}},"order":["1723937585f0e6156e","footer"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "parent": "footer-group.json",
+  "context": {
+    "market": "gb"
+  },
+  "sections": {
+    "1723937585f0e6156e": {
+      "type": "apps",
+      "disabled": false,
+      "settings": {
+        "include_margins": true
+      },
+      "blocks": {
+      },
+      "block_order": [
+
+      ]
+    },
+    "footer": {
+      "settings": {
+        "color_scheme": "scheme-3",
+        "margin_top": 20
+      },
+      "blocks": {
+      }
+    },
+    "172460783378e5738a": {
+      "type": "apps",
+      "disabled": false,
+      "settings": {
+        "include_margins": true
+      },
+      "blocks": {
+        "seguno_email_newsletter_form_L8YAA": {
+          "type": "shopify:\/\/apps\/seguno-email\/blocks\/newsletter_form\/db65571f-fa4d-473d-baa2-283a96dc76bc",
+          "disabled": false,
+          "settings": {
+            "heading": "Subscribe to our newsletter",
+            "subheading": "<p>Be the first to know about new collections and exclusive offers.<\/p>",
+            "show_first_name": false,
+            "show_last_name": false,
+            "show_permission_checkbox": false,
+            "tags": "newsletter",
+            "return_to": "",
+            "header-79c5ce7957061ddc0fbffc354ed7269c": null,
+            "label_first_name": "First name",
+            "placeholder_first_name": "",
+            "label_last_name": "Last name",
+            "placeholder_last_name": "",
+            "label_email": "Email",
+            "placeholder_email": "",
+            "label_permission": "<p>I agree to receive marketing emails<\/p>",
+            "label_subscribe": "Subscribe",
+            "success_message": "Thanks for subscribing",
+            "header-7b1002213fc56dfc5278e764c075a81b": null,
+            "background_color": "#ffffff",
+            "text_color": "#1a1b18",
+            "button_background_color": "#445958",
+            "button_text_color": "#ffffff",
+            "header-b24b866aa5bcdd83ef4e1ea4fd5a5768": null,
+            "background_image": null
+          }
+        }
+      },
+      "block_order": [
+        "seguno_email_newsletter_form_L8YAA"
+      ]
+    }
+  },
+  "order": [
+    "172460783378e5738a",
+    "1723937585f0e6156e",
+    "footer"
+  ]
+}
