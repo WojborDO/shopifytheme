@@ -29,45 +29,16 @@
     "collection_list_U3aMYw": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_ibi3wB": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
         "featured_collection_4YGThm": {
           "type": "featured_collection",
           "settings": {
             "collection": "check-our-new-lips-t-shirt-designees"
           }
-        },
-        "featured_collection_paUNTa": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_kpkR4C": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "check-our-new-lips-t-shirt-designees"
-          }
-        },
-        "featured_collection_eTjNWp": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
         }
       },
       "block_order": [
-        "featured_collection_ibi3wB",
-        "featured_collection_4YGThm",
-        "featured_collection_paUNTa",
-        "featured_collection_kpkR4C",
-        "featured_collection_eTjNWp"
+        "featured_collection_4YGThm"
       ],
-      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_size": "h1",
