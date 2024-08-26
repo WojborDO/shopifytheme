@@ -1,1 +1,145 @@
-{"parent":"index.json","context":{"market":"gb"},"sections":{"ss_parallax_banner_B9tMn":{"type":"ss-parallax-banner","disabled":false,"settings":{"header-a14bde5f0698808130074a18d712639d":null,"parallax":true,"parallax_mobile":true,"banner_height":"auto_height","banner_fixed_height":410,"banner_fixed_height_mobile":200,"header-ca8dfccb66d2fec5e126935ccac273da":null,"image":"shopify:\/\/shop_images\/13_d6049a0c-1957-4c9e-80aa-6af482004a5d.png","image_mobile":"shopify:\/\/shop_images\/13_c36b746e-3f2a-41b1-a035-d9255f01bd3e.png","overlay":0.2,"header-3e58e01abd782fd7370f9a52f84c75eb":null,"content_maxwidth":69,"content_maxwidth_mobile":41,"content_horizontal_position":"center","content_horizontal_position_mobile":"center","content_vertical_position":"center","content_vertical_position_mobile":"center","content_padding_vertical":30,"content_padding_vertical_mobile":20,"content_padding_horizontal":20,"content_padding_horizontal_mobile":20,"header-437ecad95a8e2b5f588a803c2893d8d6":null,"overlay_color":"rgba(0,0,0,0)","background_color":"#c4b321","background_gradient":"linear-gradient(349deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)","border_color":"#000000","header-c3d93a14097b34f02e9b5f7e2fe0c18d":null,"margin_top":0,"margin_bottom":0,"header-e5668e69dfe5c0a7e74e208a90b8cad1":null,"padding_top":84,"padding_bottom":56,"padding_horizontal":13,"padding_horizontal_mobile":1.5,"header-042eeae14fa9afd32f06deff5cfa9072":null,"full_width":true,"content_width":220,"border_thickness":9,"lazy":false},"blocks":{"heading_m9RBQ":{"type":"heading","disabled":false,"settings":{"header-3804b7c74e89c384b6260d2f24252309":null,"heading":"","heading_custom":true,"heading_font":"mouse_memoirs_n4","heading_size":72,"heading_size_mobile":40,"heading_height":130,"heading_mt":56,"heading_color":"#8733b4"}},"button_nrGLQ":{"type":"button","disabled":false,"settings":{"header-72da6cc3da3e48ee2ed59316cfeef0c6":null,"button":"SHOP NOW","button_url":"shopify:\/\/collections\/check-our-new-lips-t-shirt-designees","button_custom":true,"button_font":"bodoni_poster_n9","button_size":34,"button_size_mobile":24,"button_height":90,"button_padding_vertical":26,"button_padding_vertical_mobile":10,"button_padding_horizontal":50,"button_padding_horizontal_mobile":50,"button_radius":44,"button_border_thickness":4,"button_mt":16,"button_gap":28,"button_ellipse":false,"button_shadow":true,"button_style":"non_outline","header-26ab877d06c1cd00f2625d6626041a5c":null,"button_color":"#ffffff","button_hover_color":"#8733b4","button_bg_color":"#334fb4","button_bg_hover_color":"#ffe400","button_border_color":"#000000","button_border_hover_color":"#334fb4","button_shadow_color":"#0098ff"}}},"block_order":["heading_m9RBQ","button_nrGLQ"]},"collection_list_U3aMYw":{"settings":{},"blocks":{"featured_collection_NaADq":{"type":"featured_collection","disabled":false,"settings":{"collection":"customized"}},"featured_collection_D8GeY":{"type":"featured_collection","disabled":false,"settings":{"collection":""}}},"block_order":["featured_collection_kpkR4C","featured_collection_NaADq","featured_collection_D8GeY"]},"collage_nDBwHh":{"settings":{"heading":"Unique gifts","heading_size":"h1","desktop_layout":"right","mobile_layout":"collage","card_styles":"none","color_scheme":"scheme-2"},"blocks":{"image_MJVXKj":{"settings":{"image":"shopify:\/\/shop_images\/20.png"}}}}},"order":["ss_parallax_banner_B9tMn","collection_list_U3aMYw","collage_nDBwHh"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "parent": "index.json",
+  "context": {
+    "market": "gb"
+  },
+  "sections": {
+    "ss_parallax_banner_B9tMn": {
+      "type": "ss-parallax-banner",
+      "disabled": false,
+      "settings": {
+        "header-a14bde5f0698808130074a18d712639d": null,
+        "parallax": true,
+        "parallax_mobile": true,
+        "banner_height": "auto_height",
+        "banner_fixed_height": 410,
+        "banner_fixed_height_mobile": 200,
+        "header-ca8dfccb66d2fec5e126935ccac273da": null,
+        "image": "shopify:\/\/shop_images\/13_d6049a0c-1957-4c9e-80aa-6af482004a5d.png",
+        "image_mobile": "shopify:\/\/shop_images\/13_c36b746e-3f2a-41b1-a035-d9255f01bd3e.png",
+        "overlay": 0.2,
+        "header-3e58e01abd782fd7370f9a52f84c75eb": null,
+        "content_maxwidth": 69,
+        "content_maxwidth_mobile": 41,
+        "content_horizontal_position": "center",
+        "content_horizontal_position_mobile": "center",
+        "content_vertical_position": "center",
+        "content_vertical_position_mobile": "center",
+        "content_padding_vertical": 30,
+        "content_padding_vertical_mobile": 20,
+        "content_padding_horizontal": 20,
+        "content_padding_horizontal_mobile": 20,
+        "header-437ecad95a8e2b5f588a803c2893d8d6": null,
+        "overlay_color": "rgba(0,0,0,0)",
+        "background_color": "#c4b321",
+        "background_gradient": "linear-gradient(349deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)",
+        "border_color": "#000000",
+        "header-c3d93a14097b34f02e9b5f7e2fe0c18d": null,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "header-e5668e69dfe5c0a7e74e208a90b8cad1": null,
+        "padding_top": 84,
+        "padding_bottom": 56,
+        "padding_horizontal": 13,
+        "padding_horizontal_mobile": 1.5,
+        "header-042eeae14fa9afd32f06deff5cfa9072": null,
+        "full_width": true,
+        "content_width": 220,
+        "border_thickness": 9,
+        "lazy": false
+      },
+      "blocks": {
+        "heading_m9RBQ": {
+          "type": "heading",
+          "disabled": false,
+          "settings": {
+            "header-3804b7c74e89c384b6260d2f24252309": null,
+            "heading": "",
+            "heading_custom": true,
+            "heading_font": "mouse_memoirs_n4",
+            "heading_size": 72,
+            "heading_size_mobile": 40,
+            "heading_height": 130,
+            "heading_mt": 56,
+            "heading_color": "#8733b4"
+          }
+        },
+        "button_nrGLQ": {
+          "type": "button",
+          "disabled": false,
+          "settings": {
+            "header-72da6cc3da3e48ee2ed59316cfeef0c6": null,
+            "button": "SHOP NOW",
+            "button_url": "shopify:\/\/collections\/check-our-new-lips-t-shirt-designees",
+            "button_custom": true,
+            "button_font": "bodoni_poster_n9",
+            "button_size": 34,
+            "button_size_mobile": 24,
+            "button_height": 90,
+            "button_padding_vertical": 26,
+            "button_padding_vertical_mobile": 10,
+            "button_padding_horizontal": 50,
+            "button_padding_horizontal_mobile": 50,
+            "button_radius": 44,
+            "button_border_thickness": 4,
+            "button_mt": 16,
+            "button_gap": 28,
+            "button_ellipse": false,
+            "button_shadow": true,
+            "button_style": "non_outline",
+            "header-26ab877d06c1cd00f2625d6626041a5c": null,
+            "button_color": "#ffffff",
+            "button_hover_color": "#8733b4",
+            "button_bg_color": "#334fb4",
+            "button_bg_hover_color": "#ffe400",
+            "button_border_color": "#000000",
+            "button_border_hover_color": "#334fb4",
+            "button_shadow_color": "#0098ff"
+          }
+        }
+      },
+      "block_order": [
+        "heading_m9RBQ",
+        "button_nrGLQ"
+      ]
+    },
+    "collection_list_U3aMYw": {
+      "settings": {
+      },
+      "blocks": {
+        "featured_collection_NaADq": {
+          "type": "featured_collection",
+          "disabled": false,
+          "settings": {
+            "collection": "customized"
+          }
+        },
+        "featured_collection_D8GeY": {
+          "type": "featured_collection",
+          "disabled": false,
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_kpkR4C",
+        "featured_collection_NaADq",
+        "featured_collection_D8GeY"
+      ]
+    }
+  },
+  "order": [
+    "ss_parallax_banner_B9tMn",
+    "collection_list_U3aMYw"
+  ]
+}
